@@ -1,0 +1,34 @@
+.containerPp {
+  background-color: red;
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardContainer {
+  background-color: yellowgreen;
+  margin-top: 10px;
+}
+
+.containerPlayer {
+  background-color: purple;
+  max-width: 100%;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cardImage {
+  width: 100px;
+  height: 130px;
+}
+
+button {
+  width: 30%;
+}
